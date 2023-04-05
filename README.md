@@ -1,4 +1,4 @@
-### Olá! Eu sou o Cristian Alves 👋
+### Olá!👋 Eu sou o Cristian 👨🏻‍💻
 
 - 🔭 Atualmente sou Dev-Júnior como front-end
 - 🌱 Estudando JavaScript
