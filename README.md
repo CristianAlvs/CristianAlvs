@@ -1,7 +1,7 @@
 ### Olá!👋 Eu sou o Cristian 👨🏻‍💻
 
 - 🔭 Atualmente sou Dev-Júnior como front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e Python
 - 📫 Contate-me no email: cristianalves199@gmail.com
 - 💻 Já tive contato com:
   - UI - Figma
